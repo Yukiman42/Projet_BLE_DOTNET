@@ -1,0 +1,10 @@
+E:\Ressources_LP_DevOps\Projets_VS_DotNet\Projet_Afficheur_LED\ProjetAfficheurLED\bin\Debug\ProjetBadgeVirtuel.exe.config
+E:\Ressources_LP_DevOps\Projets_VS_DotNet\Projet_Afficheur_LED\ProjetAfficheurLED\bin\Debug\ProjetBadgeVirtuel.exe
+E:\Ressources_LP_DevOps\Projets_VS_DotNet\Projet_Afficheur_LED\ProjetAfficheurLED\bin\Debug\ProjetBadgeVirtuel.pdb
+E:\Ressources_LP_DevOps\Projets_VS_DotNet\Projet_Afficheur_LED\ProjetAfficheurLED\obj\Debug\Projet_Afficheur_LED.csproj.AssemblyReference.cache
+E:\Ressources_LP_DevOps\Projets_VS_DotNet\Projet_Afficheur_LED\ProjetAfficheurLED\obj\Debug\ProjetBadgeVirtuel.Properties.Resources.resources
+E:\Ressources_LP_DevOps\Projets_VS_DotNet\Projet_Afficheur_LED\ProjetAfficheurLED\obj\Debug\Projet_Afficheur_LED.csproj.GenerateResource.cache
+E:\Ressources_LP_DevOps\Projets_VS_DotNet\Projet_Afficheur_LED\ProjetAfficheurLED\obj\Debug\Projet_Afficheur_LED.csproj.CoreCompileInputs.cache
+E:\Ressources_LP_DevOps\Projets_VS_DotNet\Projet_Afficheur_LED\ProjetAfficheurLED\obj\Debug\ProjetBadgeVirtuel.exe
+E:\Ressources_LP_DevOps\Projets_VS_DotNet\Projet_Afficheur_LED\ProjetAfficheurLED\obj\Debug\ProjetBadgeVirtuel.pdb
+E:\Ressources_LP_DevOps\Projets_VS_DotNet\Projet_Afficheur_LED\ProjetAfficheurLED\obj\Debug\ProjetAfficheurLED.Form1.resources
